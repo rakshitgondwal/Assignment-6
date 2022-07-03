@@ -96,9 +96,9 @@ def student_data(student_id, **kwargs):
         print("Student Name :", kwargs['student_name'])
         print("Student Class :", kwargs['student_class'])
 
-student_data(student_id = '21102126', student_name = 'Karan Rai')
+student_data(student_id = '21102067', student_name = 'Rakshit')
 
-student_data(student_id='21102126', student_name='Karan Rai', student_class='XII')
+student_data(student_id='21102067', student_name='Rakshit', student_class='XII')
 
 
 
@@ -116,8 +116,8 @@ class Marks:
 karan=Student()
 a_grade=Marks()
 print("To check whether they are instances of said classes or not:")
-print(isinstance(karan,Student))
-print(isinstance(karan,Marks))
+print(isinstance(Rakshit,Student))
+print(isinstance(Rakshit,Marks))
 print(isinstance(a_grade,Marks))
 print(isinstance(a_grade,Student))
 print("\nTo check whether the said classes are subclasses of the built-in object class or not:")
