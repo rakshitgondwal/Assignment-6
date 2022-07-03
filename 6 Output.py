@@ -52,12 +52,12 @@ Sorted elements :
 
 Welcome to my Program
 
-Student ID: 21102126
-Student Name : Karan Rai
+Student ID: 21102067
+Student Name : Rakshit
 
-Student ID: 21102126
-Student Name : Karan Rai
-Student Name : Karan Rai
+Student ID: 21102067
+Student Name : Rakshit
+Student Name : Rakshit
 Student Class : XII
 >>>
 *** Remote Interpreter Reinitialized ***
